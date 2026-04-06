@@ -105,7 +105,7 @@ const AgencePage = () => {
                   <div className="flex items-center gap-2">
                     <BadgeCheck className="h-4 w-4 text-secondary" />
                     <span className="font-medium">Statut :</span>
-                    <span className="text-green-600 font-medium">Entreprise active</span>
+                    <span className="text-secondary font-medium">Entreprise active</span>
                   </div>
                   <p className="text-xs text-muted-foreground mt-2">Données officielles INSEE — Base SIRENE</p>
                 </div>
